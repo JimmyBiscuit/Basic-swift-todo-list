@@ -2,7 +2,7 @@
 //  NoItemsView.swift
 //  TodoList
 //
-//  Created by Tallis Elder on 27/12/2021.
+//  Created by Tallis on 27/12/2021.
 //
 
 import SwiftUI
