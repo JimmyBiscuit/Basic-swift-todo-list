@@ -2,7 +2,7 @@
 //  AddView.swift
 //  TodoList
 //
-//  Created by Tallis Elder on 26/12/2021.
+//  Created by Tallis on 26/12/2021.
 //
 
 import SwiftUI
